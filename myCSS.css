@@ -8,6 +8,7 @@ body {
      padding: 0;
      color: #000;
 }
+
 .header {
 	color: #FFFFFF
 }
@@ -35,6 +36,7 @@ body {
 	
 }
 .nav {
+	
 	background: #EEEEEE;
 	margin: 0px;
 	padding: 5;
@@ -43,6 +45,7 @@ body {
 	height: 60px;
 	text-align: center;
 	
+	
 }
 .content {
 	background: #EEEEEE;
@@ -50,6 +53,7 @@ body {
 	float: left;
 	width: 100%;
 	text-align: center;
+	
 }
 .footer {
 	background: #EEEEEE;
